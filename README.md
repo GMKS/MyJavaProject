@@ -1,2 +1,0 @@
-# MyJavaProject
-MyFamily for Jenkins
