@@ -4,7 +4,7 @@ public class FirstProgram {
 	
 	public staic void main(String[] args) {
 		
-		System.out.println("hello")
+		System.out.println("hello this is SEENAI GMK")
 		
 	}
 }
